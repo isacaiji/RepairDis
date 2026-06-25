@@ -1,0 +1,7 @@
+org\example\database_ddr_springboot\config\CorsConfig.class
+org\example\database_ddr_springboot\controller\GeneController.class
+org\example\database_ddr_springboot\config\SwaggerConfig.class
+org\example\database_ddr_springboot\service\GeneService.class
+org\example\database_ddr_springboot\entity\Gene.class
+org\example\database_ddr_springboot\mapper\GeneMapper.class
+org\example\database_ddr_springboot\DatabaseDdrSpringbootApplication.class

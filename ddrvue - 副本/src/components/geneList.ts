@@ -1,0 +1,32 @@
+const geneList: string[] = [
+    "ABRAXAS1", "ALKBH1", "ALKBH2", "ALKBH3", "APEX1", "APEX2", "APLF", "APTX",
+    "ATM", "ATR", "ATRIP", "ATRX", "AUNIP", "BABAM1", "BABAM2", "BARD1", "BLM",
+    "BOD1L1", "BRAT1", "BRCA1", "BRCA2", "BRCC3", "BRIP1", "CCNH", "CDK7", "CETN2",
+    "CHD1L", "CHEK1", "CHEK2", "CIP2A", "CLK2", "CLSPN", "CTC1", "CUL4A", "CUL4B",
+    "CYREN", "DAXX", "DCLRE1A", "DCLRE1B", "DCLRE1C", "DDB1", "DDB2", "DDX11",
+    "DMC1", "DNA2", "DONSON", "EME1", "EME2", "ENDOV", "ERCC1", "ERCC2", "ERCC3",
+    "ERCC4", "ERCC5", "ERCC6", "ERCC6L2", "ERCC8", "EXO1", "EXO5", "FAAP100",
+    "FAAP20", "FAAP24", "FAN1", "FANCA", "FANCB", "FANCC", "FANCD2", "FANCE",
+    "FANCF", "FANCG", "FANCI", "FANCL", "FANCM", "FEN1", "GEN1", "GTF2H1",
+    "GTF2H2", "GTF2H3", "GTF2H4", "GTF2H5", "H2AX", "HELB", "HELQ", "HFM1",
+    "HLTF", "HMCES", "HUS1", "LIG1", "LIG3", "LIG4", "MAD2L2", "MBD4", "MCM8",
+    "MCM9", "MDC1", "MGMT", "MLH1", "MLH3", "MMS19", "MMS22L", "MNAT1", "MPG",
+    "MRE11", "MSH2", "MSH3", "MSH4", "MSH5", "MSH6", "MUS81", "MUTYH", "NABP2",
+    "NBN", "NEIL1", "NEIL2", "NEIL3", "NHEJ1", "NTHL1", "OGG1", "PALB2", "PARG",
+    "PARP1", "PARP2", "PARP3", "PAXIP1", "PAXX", "PCNA", "PIF1", "PMS1", "PMS2",
+    "PNKP", "POLB", "POLD1", "POLD2", "POLD3", "POLD4", "POLE", "POLE2", "POLE3",
+    "POLE4", "POLH", "POLI", "POLK", "POLL", "POLM", "POLN", "POLQ", "PRIMPOL",
+    "PRKDC", "PRPF19", "RAD1", "RAD17", "RAD18", "RAD23A", "RAD23B", "RAD50",
+    "RAD51", "RAD51AP1", "RAD51AP2", "RAD51B", "RAD51C", "RAD51D", "RAD52",
+    "RAD54B", "RAD54L", "RAD9A", "RADX", "RBBP8", "RDM1", "RECQL", "RECQL4",
+    "RECQL5", "REV1", "REV3L", "RFWD3", "RIF1", "RMI1", "RNASEH2A", "RNASEH2B",
+    "RNASEH2C", "RNF168", "RNF169", "RNF8", "RPA1", "RPA2", "RPA3", "RRM2B",
+    "SETMAR", "SETX", "SHLD1", "SHLD2", "SHLD3", "SHPRH", "SLF1", "SLX1A",
+    "SLX1B", "SLX4", "SMC5", "SMC6", "SMUG1", "SPIDR", "SPO11", "SPRTN", "STN1",
+    "SWI5", "SWSAP1", "TDG", "TDP1", "TDP2", "TEN1", "TONSL", "TOP3A", "TOPBP1",
+    "TP53", "TP53BP1", "TRAIP", "UBE2A", "UBE2B", "UBE2T", "UIMC1", "UNG",
+    "USP1", "UVSSA", "WDR48", "WRAP53", "WRN", "XAB2", "XPA", "XPC", "XRCC1",
+    "XRCC2", "XRCC3", "XRCC4", "XRCC5", "XRCC6", "ZGRF1", "ZSWIM7"
+];
+
+export default geneList;

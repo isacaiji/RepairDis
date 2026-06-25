@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    url:  jdbc:mysql://121.37.88.191:3306/zy?characterEncoding=UTF-8
+    username: root
+    password: Abc123...
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+mybatis:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+#    map-underscore-to-camel-case: true
+  global-config:
+    db-config:
+      id-type: auto
+  mapper-locations: classpath:mapper/*.xml
+
+server:
+  port: 9016

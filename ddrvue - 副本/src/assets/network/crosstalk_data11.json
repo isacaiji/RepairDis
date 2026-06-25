@@ -1,0 +1,4378 @@
+{
+  "nodes": [
+    {
+      "id": "DNA repair",
+      "type": "pathway"
+    },
+    {
+      "id": "p53 signaling",
+      "type": "pathway"
+    },
+    {
+      "id": "PI3K-AKT signaling",
+      "type": "pathway"
+    },
+    {
+      "id": "TGF-beta signaling",
+      "type": "pathway"
+    },
+    {
+      "id": "CDKN1A",
+      "type": "gene"
+    },
+    {
+      "id": "RNF4",
+      "type": "gene"
+    },
+    {
+      "id": "HERC2",
+      "type": "gene"
+    },
+    {
+      "id": "DUT",
+      "type": "gene"
+    },
+    {
+      "id": "CD82",
+      "type": "gene"
+    },
+    {
+      "id": "DCLRE1A",
+      "type": "gene"
+    },
+    {
+      "id": "MDM2",
+      "type": "gene"
+    },
+    {
+      "id": "RBL1",
+      "type": "gene"
+    },
+    {
+      "id": "UBE2N",
+      "type": "gene"
+    },
+    {
+      "id": "IGF1R",
+      "type": "gene"
+    },
+    {
+      "id": "APAF1",
+      "type": "gene"
+    },
+    {
+      "id": "RAD54L",
+      "type": "gene"
+    },
+    {
+      "id": "TREX2",
+      "type": "gene"
+    },
+    {
+      "id": "HUS1",
+      "type": "gene"
+    },
+    {
+      "id": "PARP1",
+      "type": "gene"
+    },
+    {
+      "id": "PCNA",
+      "type": "gene"
+    },
+    {
+      "id": "PALB2",
+      "type": "gene"
+    },
+    {
+      "id": "RPA2",
+      "type": "gene"
+    },
+    {
+      "id": "ZSWIM7",
+      "type": "gene"
+    },
+    {
+      "id": "CASP3",
+      "type": "gene"
+    },
+    {
+      "id": "FANCE",
+      "type": "gene"
+    },
+    {
+      "id": "PDS5B",
+      "type": "gene"
+    },
+    {
+      "id": "FAAP100",
+      "type": "gene"
+    },
+    {
+      "id": "RRM2B",
+      "type": "gene"
+    },
+    {
+      "id": "SWSAP1",
+      "type": "gene"
+    },
+    {
+      "id": "AREG",
+      "type": "gene"
+    },
+    {
+      "id": "REV1",
+      "type": "gene"
+    },
+    {
+      "id": "DNPH1",
+      "type": "gene"
+    },
+    {
+      "id": "FLT1",
+      "type": "gene"
+    },
+    {
+      "id": "TP53I3",
+      "type": "gene"
+    },
+    {
+      "id": "TDP1",
+      "type": "gene"
+    },
+    {
+      "id": "PRIMPOL",
+      "type": "gene"
+    },
+    {
+      "id": "XRCC5",
+      "type": "gene"
+    },
+    {
+      "id": "MGMT",
+      "type": "gene"
+    },
+    {
+      "id": "FANCB",
+      "type": "gene"
+    },
+    {
+      "id": "PMAIP1",
+      "type": "gene"
+    },
+    {
+      "id": "BRCA1",
+      "type": "gene"
+    },
+    {
+      "id": "IGFBP3",
+      "type": "gene"
+    },
+    {
+      "id": "PTEN",
+      "type": "gene"
+    },
+    {
+      "id": "PARP2",
+      "type": "gene"
+    },
+    {
+      "id": "IKBKB",
+      "type": "gene"
+    },
+    {
+      "id": "GTF2H4",
+      "type": "gene"
+    },
+    {
+      "id": "MCL1",
+      "type": "gene"
+    },
+    {
+      "id": "POLI",
+      "type": "gene"
+    },
+    {
+      "id": "CCNB1",
+      "type": "gene"
+    },
+    {
+      "id": "AKT1",
+      "type": "gene"
+    },
+    {
+      "id": "HELQ",
+      "type": "gene"
+    },
+    {
+      "id": "POLE4",
+      "type": "gene"
+    },
+    {
+      "id": "CDK4",
+      "type": "gene"
+    },
+    {
+      "id": "ATR",
+      "type": "gene"
+    },
+    {
+      "id": "REV3L",
+      "type": "gene"
+    },
+    {
+      "id": "GADD45A",
+      "type": "gene"
+    },
+    {
+      "id": "XRCC4",
+      "type": "gene"
+    },
+    {
+      "id": "ERCC1",
+      "type": "gene"
+    },
+    {
+      "id": "POLK",
+      "type": "gene"
+    },
+    {
+      "id": "CDKN1B",
+      "type": "gene"
+    },
+    {
+      "id": "CREB1",
+      "type": "gene"
+    },
+    {
+      "id": "RAD1",
+      "type": "gene"
+    },
+    {
+      "id": "SLX4",
+      "type": "gene"
+    },
+    {
+      "id": "CD19",
+      "type": "gene"
+    },
+    {
+      "id": "RBBP8",
+      "type": "gene"
+    },
+    {
+      "id": "RIF1",
+      "type": "gene"
+    },
+    {
+      "id": "TDP2",
+      "type": "gene"
+    },
+    {
+      "id": "PNKP",
+      "type": "gene"
+    },
+    {
+      "id": "PDGFRB",
+      "type": "gene"
+    },
+    {
+      "id": "XPC",
+      "type": "gene"
+    },
+    {
+      "id": "SIVA1",
+      "type": "gene"
+    },
+    {
+      "id": "POLD3",
+      "type": "gene"
+    },
+    {
+      "id": "RPA1",
+      "type": "gene"
+    },
+    {
+      "id": "ERCC2",
+      "type": "gene"
+    },
+    {
+      "id": "MMS19",
+      "type": "gene"
+    },
+    {
+      "id": "LIG4",
+      "type": "gene"
+    },
+    {
+      "id": "RAD23A",
+      "type": "gene"
+    },
+    {
+      "id": "BARD1",
+      "type": "gene"
+    },
+    {
+      "id": "APLF",
+      "type": "gene"
+    },
+    {
+      "id": "PAXIP1",
+      "type": "gene"
+    },
+    {
+      "id": "ERBB2",
+      "type": "gene"
+    },
+    {
+      "id": "APTX",
+      "type": "gene"
+    },
+    {
+      "id": "XRCC2",
+      "type": "gene"
+    },
+    {
+      "id": "CDKN2A",
+      "type": "gene"
+    },
+    {
+      "id": "POLD1",
+      "type": "gene"
+    },
+    {
+      "id": "PMS1",
+      "type": "gene"
+    },
+    {
+      "id": "CDK1",
+      "type": "gene"
+    },
+    {
+      "id": "SHLD3",
+      "type": "gene"
+    },
+    {
+      "id": "SMAD3",
+      "type": "gene"
+    },
+    {
+      "id": "FGF2",
+      "type": "gene"
+    },
+    {
+      "id": "RECQL",
+      "type": "gene"
+    },
+    {
+      "id": "SMC6",
+      "type": "gene"
+    },
+    {
+      "id": "MPLKIP",
+      "type": "gene"
+    },
+    {
+      "id": "LIG1",
+      "type": "gene"
+    },
+    {
+      "id": "RECQL5",
+      "type": "gene"
+    },
+    {
+      "id": "CHEK2",
+      "type": "gene"
+    },
+    {
+      "id": "ADGRB1",
+      "type": "gene"
+    },
+    {
+      "id": "HMCES",
+      "type": "gene"
+    },
+    {
+      "id": "MET",
+      "type": "gene"
+    },
+    {
+      "id": "MSH2",
+      "type": "gene"
+    },
+    {
+      "id": "MUS81",
+      "type": "gene"
+    },
+    {
+      "id": "NFKB1",
+      "type": "gene"
+    },
+    {
+      "id": "DCLRE1C",
+      "type": "gene"
+    },
+    {
+      "id": "RAD18",
+      "type": "gene"
+    },
+    {
+      "id": "RAD50",
+      "type": "gene"
+    },
+    {
+      "id": "POLD2",
+      "type": "gene"
+    },
+    {
+      "id": "DDB2",
+      "type": "gene"
+    },
+    {
+      "id": "WRN",
+      "type": "gene"
+    },
+    {
+      "id": "FOXO3",
+      "type": "gene"
+    },
+    {
+      "id": "MAD2L2",
+      "type": "gene"
+    },
+    {
+      "id": "BCL2",
+      "type": "gene"
+    },
+    {
+      "id": "HDAC1",
+      "type": "gene"
+    },
+    {
+      "id": "GTF2H3",
+      "type": "gene"
+    },
+    {
+      "id": "CHUK",
+      "type": "gene"
+    },
+    {
+      "id": "FAAP20",
+      "type": "gene"
+    },
+    {
+      "id": "FEN1",
+      "type": "gene"
+    },
+    {
+      "id": "FANCL",
+      "type": "gene"
+    },
+    {
+      "id": "CLK2",
+      "type": "gene"
+    },
+    {
+      "id": "ERCC5",
+      "type": "gene"
+    },
+    {
+      "id": "ENDOV",
+      "type": "gene"
+    },
+    {
+      "id": "MLH1",
+      "type": "gene"
+    },
+    {
+      "id": "EGFR",
+      "type": "gene"
+    },
+    {
+      "id": "UBE2T",
+      "type": "gene"
+    },
+    {
+      "id": "TDG",
+      "type": "gene"
+    },
+    {
+      "id": "POLL",
+      "type": "gene"
+    },
+    {
+      "id": "APEX2",
+      "type": "gene"
+    },
+    {
+      "id": "H2AX",
+      "type": "gene"
+    },
+    {
+      "id": "CDK2",
+      "type": "gene"
+    },
+    {
+      "id": "TP53BP1",
+      "type": "gene"
+    },
+    {
+      "id": "IFNA1",
+      "type": "gene"
+    },
+    {
+      "id": "MDM4",
+      "type": "gene"
+    },
+    {
+      "id": "PARG",
+      "type": "gene"
+    },
+    {
+      "id": "ID4",
+      "type": "gene"
+    },
+    {
+      "id": "POLD4",
+      "type": "gene"
+    },
+    {
+      "id": "FN1",
+      "type": "gene"
+    },
+    {
+      "id": "RMI1",
+      "type": "gene"
+    },
+    {
+      "id": "IFNAR1",
+      "type": "gene"
+    },
+    {
+      "id": "TNFRSF10B",
+      "type": "gene"
+    },
+    {
+      "id": "EME1",
+      "type": "gene"
+    },
+    {
+      "id": "NUDT15",
+      "type": "gene"
+    },
+    {
+      "id": "SLX1B",
+      "type": "gene"
+    },
+    {
+      "id": "NEIL1",
+      "type": "gene"
+    },
+    {
+      "id": "RAD54B",
+      "type": "gene"
+    },
+    {
+      "id": "FANCM",
+      "type": "gene"
+    },
+    {
+      "id": "RDM1",
+      "type": "gene"
+    },
+    {
+      "id": "PARK7",
+      "type": "gene"
+    },
+    {
+      "id": "MLH3",
+      "type": "gene"
+    },
+    {
+      "id": "MSH4",
+      "type": "gene"
+    },
+    {
+      "id": "CETN2",
+      "type": "gene"
+    },
+    {
+      "id": "EME2",
+      "type": "gene"
+    },
+    {
+      "id": "MSH5",
+      "type": "gene"
+    },
+    {
+      "id": "NEIL2",
+      "type": "gene"
+    },
+    {
+      "id": "NUDT18",
+      "type": "gene"
+    },
+    {
+      "id": "UNG",
+      "type": "gene"
+    },
+    {
+      "id": "POLN",
+      "type": "gene"
+    },
+    {
+      "id": "ALKBH3",
+      "type": "gene"
+    },
+    {
+      "id": "BBC3",
+      "type": "gene"
+    },
+    {
+      "id": "XPA",
+      "type": "gene"
+    },
+    {
+      "id": "IFNG",
+      "type": "gene"
+    },
+    {
+      "id": "RAD51B",
+      "type": "gene"
+    },
+    {
+      "id": "ERCC6",
+      "type": "gene"
+    },
+    {
+      "id": "FANCD2",
+      "type": "gene"
+    },
+    {
+      "id": "PRKDC",
+      "type": "gene"
+    },
+    {
+      "id": "GTF2E2",
+      "type": "gene"
+    },
+    {
+      "id": "TFDP1",
+      "type": "gene"
+    },
+    {
+      "id": "ATRX",
+      "type": "gene"
+    },
+    {
+      "id": "FST",
+      "type": "gene"
+    },
+    {
+      "id": "ALKBH2",
+      "type": "gene"
+    },
+    {
+      "id": "ATM",
+      "type": "gene"
+    },
+    {
+      "id": "DCLRE1B",
+      "type": "gene"
+    },
+    {
+      "id": "SHLD2",
+      "type": "gene"
+    },
+    {
+      "id": "EPHA2",
+      "type": "gene"
+    },
+    {
+      "id": "SPO11",
+      "type": "gene"
+    },
+    {
+      "id": "DNA2",
+      "type": "gene"
+    },
+    {
+      "id": "CCND1",
+      "type": "gene"
+    },
+    {
+      "id": "RAD52",
+      "type": "gene"
+    },
+    {
+      "id": "PRPF19",
+      "type": "gene"
+    },
+    {
+      "id": "HFM1",
+      "type": "gene"
+    },
+    {
+      "id": "LIG3",
+      "type": "gene"
+    },
+    {
+      "id": "MNAT1",
+      "type": "gene"
+    },
+    {
+      "id": "ABRAXAS1",
+      "type": "gene"
+    },
+    {
+      "id": "SIAH1",
+      "type": "gene"
+    },
+    {
+      "id": "XRCC1",
+      "type": "gene"
+    },
+    {
+      "id": "TP73",
+      "type": "gene"
+    },
+    {
+      "id": "SETMAR",
+      "type": "gene"
+    },
+    {
+      "id": "ATRIP",
+      "type": "gene"
+    },
+    {
+      "id": "NEIL3",
+      "type": "gene"
+    },
+    {
+      "id": "FANCG",
+      "type": "gene"
+    },
+    {
+      "id": "NABP2",
+      "type": "gene"
+    },
+    {
+      "id": "NHEJ1",
+      "type": "gene"
+    },
+    {
+      "id": "FAN1",
+      "type": "gene"
+    },
+    {
+      "id": "POLQ",
+      "type": "gene"
+    },
+    {
+      "id": "MYC",
+      "type": "gene"
+    },
+    {
+      "id": "SHLD1",
+      "type": "gene"
+    },
+    {
+      "id": "POLB",
+      "type": "gene"
+    },
+    {
+      "id": "ID2",
+      "type": "gene"
+    },
+    {
+      "id": "POLM",
+      "type": "gene"
+    },
+    {
+      "id": "VEGFA",
+      "type": "gene"
+    },
+    {
+      "id": "HLTF",
+      "type": "gene"
+    },
+    {
+      "id": "PMS2",
+      "type": "gene"
+    },
+    {
+      "id": "GEN1",
+      "type": "gene"
+    },
+    {
+      "id": "GTF2H5",
+      "type": "gene"
+    },
+    {
+      "id": "SEM1",
+      "type": "gene"
+    },
+    {
+      "id": "POLE2",
+      "type": "gene"
+    },
+    {
+      "id": "PARPBP",
+      "type": "gene"
+    },
+    {
+      "id": "MSH6",
+      "type": "gene"
+    },
+    {
+      "id": "CHEK1",
+      "type": "gene"
+    },
+    {
+      "id": "OGG1",
+      "type": "gene"
+    },
+    {
+      "id": "BCL2L1",
+      "type": "gene"
+    },
+    {
+      "id": "UBE2V2",
+      "type": "gene"
+    },
+    {
+      "id": "EXO1",
+      "type": "gene"
+    },
+    {
+      "id": "RAD17",
+      "type": "gene"
+    },
+    {
+      "id": "FBN1",
+      "type": "gene"
+    },
+    {
+      "id": "SLX1A",
+      "type": "gene"
+    },
+    {
+      "id": "DNTT",
+      "type": "gene"
+    },
+    {
+      "id": "NBN",
+      "type": "gene"
+    },
+    {
+      "id": "JAK2",
+      "type": "gene"
+    },
+    {
+      "id": "CREBBP",
+      "type": "gene"
+    },
+    {
+      "id": "CDK7",
+      "type": "gene"
+    },
+    {
+      "id": "RPA4",
+      "type": "gene"
+    },
+    {
+      "id": "NUDT1",
+      "type": "gene"
+    },
+    {
+      "id": "EP300",
+      "type": "gene"
+    },
+    {
+      "id": "FAS",
+      "type": "gene"
+    },
+    {
+      "id": "RAD51D",
+      "type": "gene"
+    },
+    {
+      "id": "GTF2H2",
+      "type": "gene"
+    },
+    {
+      "id": "POLH",
+      "type": "gene"
+    },
+    {
+      "id": "POLA1",
+      "type": "gene"
+    },
+    {
+      "id": "SHPRH",
+      "type": "gene"
+    },
+    {
+      "id": "RBL2",
+      "type": "gene"
+    },
+    {
+      "id": "PARP3",
+      "type": "gene"
+    },
+    {
+      "id": "SFN",
+      "type": "gene"
+    },
+    {
+      "id": "MRE11",
+      "type": "gene"
+    },
+    {
+      "id": "MPG",
+      "type": "gene"
+    },
+    {
+      "id": "SMUG1",
+      "type": "gene"
+    },
+    {
+      "id": "ERCC3",
+      "type": "gene"
+    },
+    {
+      "id": "RAD23B",
+      "type": "gene"
+    },
+    {
+      "id": "SMC5",
+      "type": "gene"
+    },
+    {
+      "id": "DMC1",
+      "type": "gene"
+    },
+    {
+      "id": "RNF168",
+      "type": "gene"
+    },
+    {
+      "id": "RAD51",
+      "type": "gene"
+    },
+    {
+      "id": "FANCA",
+      "type": "gene"
+    },
+    {
+      "id": "FANCI",
+      "type": "gene"
+    },
+    {
+      "id": "POLG",
+      "type": "gene"
+    },
+    {
+      "id": "MUTYH",
+      "type": "gene"
+    },
+    {
+      "id": "WDR48",
+      "type": "gene"
+    },
+    {
+      "id": "ID1",
+      "type": "gene"
+    },
+    {
+      "id": "THBS1",
+      "type": "gene"
+    },
+    {
+      "id": "XRCC6",
+      "type": "gene"
+    },
+    {
+      "id": "NTHL1",
+      "type": "gene"
+    },
+    {
+      "id": "EXO5",
+      "type": "gene"
+    },
+    {
+      "id": "APEX1",
+      "type": "gene"
+    },
+    {
+      "id": "MDC1",
+      "type": "gene"
+    },
+    {
+      "id": "PERP",
+      "type": "gene"
+    },
+    {
+      "id": "POLE",
+      "type": "gene"
+    },
+    {
+      "id": "SPRTN",
+      "type": "gene"
+    },
+    {
+      "id": "TNFRSF10A",
+      "type": "gene"
+    },
+    {
+      "id": "RECQL4",
+      "type": "gene"
+    },
+    {
+      "id": "RPA3",
+      "type": "gene"
+    },
+    {
+      "id": "UBE2A",
+      "type": "gene"
+    },
+    {
+      "id": "SERPINE1",
+      "type": "gene"
+    },
+    {
+      "id": "CCNB2",
+      "type": "gene"
+    },
+    {
+      "id": "SP1",
+      "type": "gene"
+    },
+    {
+      "id": "UVSSA",
+      "type": "gene"
+    },
+    {
+      "id": "GTF2H1",
+      "type": "gene"
+    },
+    {
+      "id": "RELA",
+      "type": "gene"
+    },
+    {
+      "id": "BAX",
+      "type": "gene"
+    },
+    {
+      "id": "HFE",
+      "type": "gene"
+    },
+    {
+      "id": "USP1",
+      "type": "gene"
+    },
+    {
+      "id": "DDB1",
+      "type": "gene"
+    },
+    {
+      "id": "MBD4",
+      "type": "gene"
+    },
+    {
+      "id": "PER1",
+      "type": "gene"
+    },
+    {
+      "id": "ERCC4",
+      "type": "gene"
+    },
+    {
+      "id": "IGF1",
+      "type": "gene"
+    },
+    {
+      "id": "ATF2",
+      "type": "gene"
+    },
+    {
+      "id": "FANCF",
+      "type": "gene"
+    },
+    {
+      "id": "CCNH",
+      "type": "gene"
+    },
+    {
+      "id": "UBE2B",
+      "type": "gene"
+    },
+    {
+      "id": "SPIDR",
+      "type": "gene"
+    },
+    {
+      "id": "BRIP1",
+      "type": "gene"
+    },
+    {
+      "id": "FAAP24",
+      "type": "gene"
+    },
+    {
+      "id": "TREX1",
+      "type": "gene"
+    },
+    {
+      "id": "JAK1",
+      "type": "gene"
+    },
+    {
+      "id": "HRAS",
+      "type": "gene"
+    },
+    {
+      "id": "E2F4",
+      "type": "gene"
+    },
+    {
+      "id": "BLM",
+      "type": "gene"
+    },
+    {
+      "id": "RAD9A",
+      "type": "gene"
+    },
+    {
+      "id": "POLE3",
+      "type": "gene"
+    },
+    {
+      "id": "RAD51C",
+      "type": "gene"
+    },
+    {
+      "id": "SWI5",
+      "type": "gene"
+    },
+    {
+      "id": "HSP90AB1",
+      "type": "gene"
+    },
+    {
+      "id": "BRCA2",
+      "type": "gene"
+    },
+    {
+      "id": "FANCC",
+      "type": "gene"
+    },
+    {
+      "id": "MSH3",
+      "type": "gene"
+    },
+    {
+      "id": "RNF8",
+      "type": "gene"
+    },
+    {
+      "id": "XAB2",
+      "type": "gene"
+    },
+    {
+      "id": "TP53",
+      "type": "gene"
+    },
+    {
+      "id": "CHAF1A",
+      "type": "gene"
+    },
+    {
+      "id": "XRCC3",
+      "type": "gene"
+    },
+    {
+      "id": "TOPBP1",
+      "type": "gene"
+    },
+    {
+      "id": "ERCC8",
+      "type": "gene"
+    },
+    {
+      "id": "TOP3A",
+      "type": "gene"
+    }
+  ],
+  "edges": [
+    {
+      "source": "DNA repair",
+      "target": "FANCM",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RDM1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PARK7",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MLH3",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MSH4",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "CETN2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "EME2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "HERC2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MSH5",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "NEIL2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "DUT",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "NUDT18",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "DCLRE1A",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLN",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RNF4",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "UNG",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "ALKBH3",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "XPA",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "UBE2N",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RAD51B",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "ERCC6",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "FANCD2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PRKDC",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "GTF2E2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RAD54L",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "ATRX",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "TREX2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "HUS1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PARP1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "ALKBH2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PCNA",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PALB2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RPA2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "ATM",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "DCLRE1B",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "ZSWIM7",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SLX1B",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SHLD2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SPO11",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "DNA2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "FANCE",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PDS5B",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RAD52",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "FAAP100",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RRM2B",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SWSAP1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PRPF19",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "HFM1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "LIG3",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MNAT1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "ABRAXAS1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "XRCC1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SETMAR",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "ATRIP",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "NEIL3",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "FANCG",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "REV1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "NABP2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "NHEJ1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "FAN1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "DNPH1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLQ",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "TDP1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SHLD1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLB",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PRIMPOL",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "XRCC5",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLM",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MGMT",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "HLTF",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "FANCB",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PMS2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "BRCA1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "GEN1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "GTF2H5",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SEM1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PARP2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "GTF2H4",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLE2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PARPBP",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLI",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MSH6",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "CHEK1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "HELQ",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLE4",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "ATR",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "REV3L",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "OGG1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "XRCC4",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "ERCC1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLK",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "UBE2V2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "EXO1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RAD1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RAD17",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SLX1A",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SLX4",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RBBP8",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "DNTT",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "NBN",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RIF1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "TDP2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PNKP",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "CDK7",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "XPC",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RPA4",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLD3",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "NUDT1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RPA1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "ERCC2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RAD51D",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "GTF2H2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLH",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MMS19",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "LIG4",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLA1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RAD23A",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SHPRH",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PARP3",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "BARD1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "APLF",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PAXIP1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MRE11",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MPG",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SMUG1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "APTX",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "ERCC3",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RAD23B",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SMC5",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "XRCC2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "DMC1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RNF168",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RAD51",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLD1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "FANCA",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "FANCI",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PMS1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLG",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MUTYH",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SHLD3",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RECQL",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "WDR48",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SMC6",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MPLKIP",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "LIG1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RECQL5",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "CHEK2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "HMCES",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "XRCC6",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MSH2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "NTHL1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "EXO5",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "APEX1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MUS81",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MDC1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "DCLRE1C",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLE",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RAD18",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RAD50",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLD2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "DDB2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SPRTN",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "WRN",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MAD2L2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RECQL4",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RPA3",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "TP53",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "UBE2A",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "XRCC3",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "UVSSA",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "GTF2H3",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "GTF2H1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "FAAP20",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "FEN1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "FANCL",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "USP1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "DDB1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MBD4",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PER1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "CLK2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "ERCC4",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "ERCC5",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "ENDOV",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MLH1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "FANCF",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "CCNH",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "UBE2B",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SPIDR",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "BRIP1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "FAAP24",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "TDG",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLL",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "TREX1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "UBE2T",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "BLM",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RAD9A",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "APEX2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "H2AX",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLE3",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RAD51C",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "SWI5",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "TP53BP1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "PARG",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "BRCA2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "POLD4",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "FANCC",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RMI1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "EME1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "MSH3",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RNF8",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "NUDT15",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "NEIL1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "ERCC8",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "CHAF1A",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "XAB2",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "TOPBP1",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "TOP3A",
+      "type": "membership"
+    },
+    {
+      "source": "DNA repair",
+      "target": "RAD54B",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "CDKN1A",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "SIVA1",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "CCNB2",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "SERPINE1",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "BCL2",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "TP53I3",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "FAS",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "CD82",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "MDM2",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "BBC3",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "SFN",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "BAX",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "APAF1",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "PMAIP1",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "IGFBP3",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "CDKN2A",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "IGF1",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "PTEN",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "CDK1",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "ATM",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "ADGRB1",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "CHEK2",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "CCNB1",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "CHEK1",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "CASP3",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "THBS1",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "CDK4",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "GADD45A",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "CDK2",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "CCND1",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "BCL2L1",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "MDM4",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "RRM2B",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "PERP",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "TNFRSF10B",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "DDB2",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "TNFRSF10A",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "SIAH1",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "TP53",
+      "type": "membership"
+    },
+    {
+      "source": "p53 signaling",
+      "target": "TP73",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "CDKN1A",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "PDGFRB",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "BCL2",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "FLT1",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "MYC",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "MDM2",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "RBL2",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "CHUK",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "VEGFA",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "RELA",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "IGF1R",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "ERBB2",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "BRCA1",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "PTEN",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "IGF1",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "IKBKB",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "ATF2",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "FGF2",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "EGFR",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "MCL1",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "JAK1",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "AKT1",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "HRAS",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "EPHA2",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "THBS1",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "MET",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "CDK4",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "CCND1",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "CDK2",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "BCL2L1",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "CDKN1B",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "IFNA1",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "CREB1",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "NFKB1",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "HSP90AB1",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "FN1",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "IFNAR1",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "AREG",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "FOXO3",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "CD19",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "TP53",
+      "type": "membership"
+    },
+    {
+      "source": "PI3K-AKT signaling",
+      "target": "JAK2",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "IFNG",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "TFDP1",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "ID4",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "HFE",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "SP1",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "EP300",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "MYC",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "FST",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "FBN1",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "ID2",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "ID1",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "THBS1",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "HDAC1",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "E2F4",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "RBL1",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "CREBBP",
+      "type": "membership"
+    },
+    {
+      "source": "TGF-beta signaling",
+      "target": "SMAD3",
+      "type": "membership"
+    },
+    {
+      "source": "APEX1",
+      "target": "CD19",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "10666449"
+    },
+    {
+      "source": "APEX1",
+      "target": "NFKB1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "17045925"
+    },
+    {
+      "source": "APEX1",
+      "target": "RELA",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "17045925"
+    },
+    {
+      "source": "ATF2",
+      "target": "POLB",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "10518804"
+    },
+    {
+      "source": "ATM",
+      "target": "APLF",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "18077224"
+    },
+    {
+      "source": "ATM",
+      "target": "BAX",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "16214353"
+    },
+    {
+      "source": "ATM",
+      "target": "BCL2",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "16214353"
+    },
+    {
+      "source": "ATM",
+      "target": "CDKN1A",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "12420214"
+    },
+    {
+      "source": "ATM",
+      "target": "FAS",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "19502594"
+    },
+    {
+      "source": "ATM",
+      "target": "GADD45A",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "20164679"
+    },
+    {
+      "source": "ATM",
+      "target": "IGF1R",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11172010"
+    },
+    {
+      "source": "ATM",
+      "target": "MCL1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "20164679"
+    },
+    {
+      "source": "ATM",
+      "target": "PCNA",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "22362778"
+    },
+    {
+      "source": "ATM",
+      "target": "PMAIP1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "20368352"
+    },
+    {
+      "source": "ATM",
+      "target": "SP1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "11466608"
+    },
+    {
+      "source": "ATM",
+      "target": "SP1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "12926986"
+    },
+    {
+      "source": "ATM",
+      "target": "TNFRSF10B",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "19351839"
+    },
+    {
+      "source": "ATM",
+      "target": "VEGFA",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "20676049"
+    },
+    {
+      "source": "BRCA1",
+      "target": "AREG",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "20103632"
+    },
+    {
+      "source": "BRCA1",
+      "target": "ATM",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "22832221"
+    },
+    {
+      "source": "BRCA1",
+      "target": "BRCA2",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11405179"
+    },
+    {
+      "source": "BRCA1",
+      "target": "CCNB1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "12647291"
+    },
+    {
+      "source": "BRCA1",
+      "target": "CCND1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "12032322"
+    },
+    {
+      "source": "BRCA1",
+      "target": "CDKN1A",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "16735508;18025037;21245169"
+    },
+    {
+      "source": "BRCA1",
+      "target": "CDKN1A",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "10196224;11394910;12647291;9926942"
+    },
+    {
+      "source": "BRCA1",
+      "target": "CDKN1B",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "18025037"
+    },
+    {
+      "source": "BRCA1",
+      "target": "CDKN1B",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "16331276"
+    },
+    {
+      "source": "BRCA1",
+      "target": "DDB2",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "12170778"
+    },
+    {
+      "source": "BRCA1",
+      "target": "EGFR",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "21396117"
+    },
+    {
+      "source": "BRCA1",
+      "target": "EP300",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "11782371"
+    },
+    {
+      "source": "BRCA1",
+      "target": "EP300",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11405179"
+    },
+    {
+      "source": "BRCA1",
+      "target": "FST",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "22685544"
+    },
+    {
+      "source": "BRCA1",
+      "target": "GADD45A",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "10962562;17428466;18025037"
+    },
+    {
+      "source": "BRCA1",
+      "target": "GADD45A",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "18350249"
+    },
+    {
+      "source": "BRCA1",
+      "target": "GADD45A",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11777930;12647291"
+    },
+    {
+      "source": "BRCA1",
+      "target": "IFNA1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "17374731"
+    },
+    {
+      "source": "BRCA1",
+      "target": "IGF1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "18045956"
+    },
+    {
+      "source": "BRCA1",
+      "target": "IGF1R",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11001824;19223505"
+    },
+    {
+      "source": "BRCA1",
+      "target": "JAK1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11163768"
+    },
+    {
+      "source": "BRCA1",
+      "target": "JAK2",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11163768"
+    },
+    {
+      "source": "BRCA1",
+      "target": "MDC1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "22942284"
+    },
+    {
+      "source": "BRCA1",
+      "target": "MDM2",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "11256609"
+    },
+    {
+      "source": "BRCA1",
+      "target": "MYC",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "12032322;12646176"
+    },
+    {
+      "source": "BRCA1",
+      "target": "VEGFA",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "16543242"
+    },
+    {
+      "source": "BRCA1",
+      "target": "XPC",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "12647291"
+    },
+    {
+      "source": "CREB1",
+      "target": "POLD2",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "10978529"
+    },
+    {
+      "source": "CREB1",
+      "target": "RRM2B",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11978967"
+    },
+    {
+      "source": "CREB1",
+      "target": "XPC",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "21507255"
+    },
+    {
+      "source": "CREBBP",
+      "target": "BRCA1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "23285190"
+    },
+    {
+      "source": "CREBBP",
+      "target": "RAD51",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "23285190"
+    },
+    {
+      "source": "CREBBP",
+      "target": "TP53",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "15154850"
+    },
+    {
+      "source": "DDB1",
+      "target": "CDKN2A",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "19208841"
+    },
+    {
+      "source": "DDB2",
+      "target": "BCL2",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "20013802"
+    },
+    {
+      "source": "DDB2",
+      "target": "XPA",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "24953096"
+    },
+    {
+      "source": "E2F4",
+      "target": "BRCA1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "20818429"
+    },
+    {
+      "source": "E2F4",
+      "target": "BRCA1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "17106239;20133863;21701264;23108140"
+    },
+    {
+      "source": "E2F4",
+      "target": "BRCA1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "17001309"
+    },
+    {
+      "source": "E2F4",
+      "target": "RAD51",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "20133863;21701264"
+    },
+    {
+      "source": "E2F4",
+      "target": "RAD51",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "17001309"
+    },
+    {
+      "source": "E2F4",
+      "target": "TOPBP1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "15195143"
+    },
+    {
+      "source": "EP300",
+      "target": "BRCA1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "23353771"
+    },
+    {
+      "source": "EP300",
+      "target": "BRCA1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "23285190"
+    },
+    {
+      "source": "EP300",
+      "target": "MGMT",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "22675172"
+    },
+    {
+      "source": "EP300",
+      "target": "PARP1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "17065349"
+    },
+    {
+      "source": "EP300",
+      "target": "PCNA",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "10618724"
+    },
+    {
+      "source": "EP300",
+      "target": "RAD51",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "23285190"
+    },
+    {
+      "source": "ERCC2",
+      "target": "BAX",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "22387547"
+    },
+    {
+      "source": "ERCC2",
+      "target": "BCL2",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "22387547"
+    },
+    {
+      "source": "ERCC2",
+      "target": "CDKN1A",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "22387547"
+    },
+    {
+      "source": "ERCC2",
+      "target": "TP53",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "22387547"
+    },
+    {
+      "source": "HDAC1",
+      "target": "BRCA2",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "18765668"
+    },
+    {
+      "source": "HDAC1",
+      "target": "MGMT",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "18555750"
+    },
+    {
+      "source": "HDAC1",
+      "target": "PCNA",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "9650586"
+    },
+    {
+      "source": "HDAC1",
+      "target": "PCNA",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "18691180"
+    },
+    {
+      "source": "HDAC1",
+      "target": "RECQL4",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "15674334"
+    },
+    {
+      "source": "HDAC1",
+      "target": "TP53",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "15130752"
+    },
+    {
+      "source": "ID4",
+      "target": "BRCA1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "12032322;17016441"
+    },
+    {
+      "source": "IKBKB",
+      "target": "TP53",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "24006445"
+    },
+    {
+      "source": "MDM4",
+      "target": "TP53",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11528400;17499002;17875722;19910468"
+    },
+    {
+      "source": "MYC",
+      "target": "CHEK1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "23269272"
+    },
+    {
+      "source": "MYC",
+      "target": "CHEK2",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "23269272"
+    },
+    {
+      "source": "MYC",
+      "target": "PCNA",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "18809243"
+    },
+    {
+      "source": "MYC",
+      "target": "TP53",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "8494784"
+    },
+    {
+      "source": "MYC",
+      "target": "TP53",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "19086036"
+    },
+    {
+      "source": "MYC",
+      "target": "WRN",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "12842909"
+    },
+    {
+      "source": "NFKB1",
+      "target": "BRCA2",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "10961992"
+    },
+    {
+      "source": "NFKB1",
+      "target": "MGMT",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "22675172"
+    },
+    {
+      "source": "NFKB1",
+      "target": "RRM2B",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11978967"
+    },
+    {
+      "source": "NFKB1",
+      "target": "TP53",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "10348347;11032029"
+    },
+    {
+      "source": "PARP1",
+      "target": "BCL2",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "20564216"
+    },
+    {
+      "source": "PARP1",
+      "target": "CDKN1A",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "20711239"
+    },
+    {
+      "source": "PARP1",
+      "target": "FBN1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "23860323"
+    },
+    {
+      "source": "PARP1",
+      "target": "FN1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "22223884"
+    },
+    {
+      "source": "PARP1",
+      "target": "HFE",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "24184271"
+    },
+    {
+      "source": "PARP1",
+      "target": "IFNAR1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "19501422"
+    },
+    {
+      "source": "PARP1",
+      "target": "IFNG",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "17177976"
+    },
+    {
+      "source": "PARP1",
+      "target": "NFKB1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "16026317"
+    },
+    {
+      "source": "PARP1",
+      "target": "RELA",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "16026317"
+    },
+    {
+      "source": "PARP1",
+      "target": "SERPINE1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "22159350"
+    },
+    {
+      "source": "PER1",
+      "target": "BAX",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "19675098"
+    },
+    {
+      "source": "PER1",
+      "target": "BCL2",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "19675098"
+    },
+    {
+      "source": "RAD51",
+      "target": "SP1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "18769160"
+    },
+    {
+      "source": "RBL1",
+      "target": "BRCA1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "17106239"
+    },
+    {
+      "source": "RBL2",
+      "target": "BRCA1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "17106239;21701264"
+    },
+    {
+      "source": "RBL2",
+      "target": "RAD51",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "21701264"
+    },
+    {
+      "source": "RELA",
+      "target": "BRCA2",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "10961992"
+    },
+    {
+      "source": "RELA",
+      "target": "MGMT",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "22675172"
+    },
+    {
+      "source": "RELA",
+      "target": "TP53",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "10348347;11032029;15155458"
+    },
+    {
+      "source": "SP1",
+      "target": "APEX1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "18208837"
+    },
+    {
+      "source": "SP1",
+      "target": "APEX1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "7534297"
+    },
+    {
+      "source": "SP1",
+      "target": "ATM",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11466608"
+    },
+    {
+      "source": "SP1",
+      "target": "BRCA1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "19466541"
+    },
+    {
+      "source": "SP1",
+      "target": "DDB1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "12527763"
+    },
+    {
+      "source": "SP1",
+      "target": "DDB2",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "12527763"
+    },
+    {
+      "source": "SP1",
+      "target": "MGMT",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "22675172"
+    },
+    {
+      "source": "SP1",
+      "target": "MPG",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "10563836"
+    },
+    {
+      "source": "SP1",
+      "target": "POLD1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11375983"
+    },
+    {
+      "source": "SP1",
+      "target": "POLD2",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "10978529"
+    },
+    {
+      "source": "SP1",
+      "target": "POLE2",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11433027"
+    },
+    {
+      "source": "SP1",
+      "target": "RECQL4",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "15674334"
+    },
+    {
+      "source": "SP1",
+      "target": "RECQL4",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "10552928"
+    },
+    {
+      "source": "SP1",
+      "target": "WRN",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11896071"
+    },
+    {
+      "source": "SP1",
+      "target": "XPC",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "19934262;21507255"
+    },
+    {
+      "source": "TFDP1",
+      "target": "PCNA",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "14618416"
+    },
+    {
+      "source": "TFDP1",
+      "target": "TP53",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "8557038"
+    },
+    {
+      "source": "TP53",
+      "target": "AKT1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "12485897"
+    },
+    {
+      "source": "TP53",
+      "target": "ALKBH2",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "20661249"
+    },
+    {
+      "source": "TP53",
+      "target": "APAF1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11896574;15972851"
+    },
+    {
+      "source": "TP53",
+      "target": "ADGRB1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11875720"
+    },
+    {
+      "source": "TP53",
+      "target": "BAX",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "10101800;10566557;15851483;17280505;17693666;18172861;20673369;22532570;22732402;9000137"
+    },
+    {
+      "source": "TP53",
+      "target": "BAX",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "10559267;11278953;12851404;15988033;19067706;21859835"
+    },
+    {
+      "source": "TP53",
+      "target": "BBC3",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "17280505"
+    },
+    {
+      "source": "TP53",
+      "target": "BBC3",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11572983;15988033;18755897;22763818"
+    },
+    {
+      "source": "TP53",
+      "target": "BCL2",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "11313951;17693666;19411072;20428827;9000137"
+    },
+    {
+      "source": "TP53",
+      "target": "BCL2",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "21859835"
+    },
+    {
+      "source": "TP53",
+      "target": "BCL2L1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "9000137"
+    },
+    {
+      "source": "TP53",
+      "target": "BCL2L1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "18172861"
+    },
+    {
+      "source": "TP53",
+      "target": "BRCA1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "9619832"
+    },
+    {
+      "source": "TP53",
+      "target": "BRCA1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "21742769"
+    },
+    {
+      "source": "TP53",
+      "target": "BRCA2",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "18765668;9619832"
+    },
+    {
+      "source": "TP53",
+      "target": "CASP3",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "21859835"
+    },
+    {
+      "source": "TP53",
+      "target": "CCNB1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "11892838"
+    },
+    {
+      "source": "TP53",
+      "target": "CCNB2",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "12889596"
+    },
+    {
+      "source": "TP53",
+      "target": "CCND1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "12808109"
+    },
+    {
+      "source": "TP53",
+      "target": "CD82",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "9736732"
+    },
+    {
+      "source": "TP53",
+      "target": "CDK1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "12889596"
+    },
+    {
+      "source": "TP53",
+      "target": "CDK1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "19067706"
+    },
+    {
+      "source": "TP53",
+      "target": "CDK2",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "12732645"
+    },
+    {
+      "source": "TP53",
+      "target": "CDK4",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "17530187"
+    },
+    {
+      "source": "TP53",
+      "target": "CDKN1A",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "10101800;10327058;10499591;10522058;10566557;10597242;11444825;11892838;12665570;12889596;12902982;14522900;15851483;15882981;15897882;17280505;18172861;18645021;19501055;19713748;20673369;21084835;21245169;21557991;22532570;22732402;7753560;9916993"
+    },
+    {
+      "source": "TP53",
+      "target": "CDKN1A",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "15208672;16970927;17344317"
+    },
+    {
+      "source": "TP53",
+      "target": "CDKN1A",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "10559267;10910098;12007564;12420214;12851404;15509808;15539944;15856024;15988033;16103882;16434701;16540664;16557594;16581545;17996705;18225552;18755897;19067706;19954840;20036872;20190809;20531308;21858218;21900401"
+    },
+    {
+      "source": "TP53",
+      "target": "CDKN1B",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "15988033"
+    },
+    {
+      "source": "TP53",
+      "target": "CHEK1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "15016801"
+    },
+    {
+      "source": "TP53",
+      "target": "CHEK1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11152453"
+    },
+    {
+      "source": "TP53",
+      "target": "CHEK2",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "10531348"
+    },
+    {
+      "source": "TP53",
+      "target": "CHUK",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "15469934"
+    },
+    {
+      "source": "TP53",
+      "target": "DDB1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "16357511"
+    },
+    {
+      "source": "TP53",
+      "target": "DDB1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "19382146"
+    },
+    {
+      "source": "TP53",
+      "target": "DDB2",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "16357511"
+    },
+    {
+      "source": "TP53",
+      "target": "DDB2",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "12771027;12967652;15856024;15927209;22336944"
+    },
+    {
+      "source": "TP53",
+      "target": "EGFR",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "10029407"
+    },
+    {
+      "source": "TP53",
+      "target": "EPHA2",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "11641774"
+    },
+    {
+      "source": "TP53",
+      "target": "FAS",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "10101800;11313989"
+    },
+    {
+      "source": "TP53",
+      "target": "FAS",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "16317104"
+    },
+    {
+      "source": "TP53",
+      "target": "FGF2",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "10029407"
+    },
+    {
+      "source": "TP53",
+      "target": "FLT1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "16432214"
+    },
+    {
+      "source": "TP53",
+      "target": "FLT1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "1724219e"
+    },
+    {
+      "source": "TP53",
+      "target": "FOXO3",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "19299143"
+    },
+    {
+      "source": "TP53",
+      "target": "GADD45A",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "10566557"
+    },
+    {
+      "source": "TP53",
+      "target": "GADD45A",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "17344317;18350249"
+    },
+    {
+      "source": "TP53",
+      "target": "GADD45A",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "10327059;12007564;15031557;16581545;18225552"
+    },
+    {
+      "source": "TP53",
+      "target": "HRAS",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11127813"
+    },
+    {
+      "source": "TP53",
+      "target": "HSP90AB1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "15284248"
+    },
+    {
+      "source": "TP53",
+      "target": "ID1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "16557594"
+    },
+    {
+      "source": "TP53",
+      "target": "ID2",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "16557594"
+    },
+    {
+      "source": "TP53",
+      "target": "IGF1R",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "12444079;17097318"
+    },
+    {
+      "source": "TP53",
+      "target": "IGF1R",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11001824;17600529"
+    },
+    {
+      "source": "TP53",
+      "target": "IGFBP3",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "10101800"
+    },
+    {
+      "source": "TP53",
+      "target": "MCL1",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "19411072"
+    },
+    {
+      "source": "TP53",
+      "target": "MDM2",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "10566557;10718212;12902982;15851483;20837136;22223137;22532570;9645455;9858609"
+    },
+    {
+      "source": "TP53",
+      "target": "MDM2",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "10469568;12851404;14532965;15856024;18566224;18583933;20036872;22180176;9071998"
+    },
+    {
+      "source": "TP53",
+      "target": "MDM4",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "20036872;20372076"
+    },
+    {
+      "source": "TP53",
+      "target": "MET",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "21831840"
+    },
+    {
+      "source": "TP53",
+      "target": "MGMT",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "17564708;19846904"
+    },
+    {
+      "source": "TP53",
+      "target": "MGMT",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "20525765"
+    },
+    {
+      "source": "TP53",
+      "target": "MYC",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "19411072"
+    },
+    {
+      "source": "TP53",
+      "target": "MYC",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "19202062"
+    },
+    {
+      "source": "TP53",
+      "target": "NFKB1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "15988033"
+    },
+    {
+      "source": "TP53",
+      "target": "OGG1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "16293709"
+    },
+    {
+      "source": "TP53",
+      "target": "PDGFRB",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "18697203"
+    },
+    {
+      "source": "TP53",
+      "target": "PERP",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "17344317"
+    },
+    {
+      "source": "TP53",
+      "target": "PERP",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "15856024"
+    },
+    {
+      "source": "TP53",
+      "target": "PMAIP1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "14695212"
+    },
+    {
+      "source": "TP53",
+      "target": "PMAIP1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "15856024"
+    },
+    {
+      "source": "TP53",
+      "target": "POLD1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11375983"
+    },
+    {
+      "source": "TP53",
+      "target": "PTEN",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "17344317"
+    },
+    {
+      "source": "TP53",
+      "target": "PTEN",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11545734"
+    },
+    {
+      "source": "TP53",
+      "target": "RAD51B",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "9878257"
+    },
+    {
+      "source": "TP53",
+      "target": "RECQL4",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "15674334"
+    },
+    {
+      "source": "TP53",
+      "target": "RELA",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "15988033"
+    },
+    {
+      "source": "TP53",
+      "target": "RRM2B",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "10716435;15856024"
+    },
+    {
+      "source": "TP53",
+      "target": "SFN",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "10101800"
+    },
+    {
+      "source": "TP53",
+      "target": "SIAH1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "20421190"
+    },
+    {
+      "source": "TP53",
+      "target": "SIVA1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "15105421"
+    },
+    {
+      "source": "TP53",
+      "target": "SIVA1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "15105421"
+    },
+    {
+      "source": "TP53",
+      "target": "SMAD3",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "21900401"
+    },
+    {
+      "source": "TP53",
+      "target": "THBS1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "10029407;10101800"
+    },
+    {
+      "source": "TP53",
+      "target": "THBS1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "19826414"
+    },
+    {
+      "source": "TP53",
+      "target": "TNFRSF10A",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "11313989"
+    },
+    {
+      "source": "TP53",
+      "target": "TNFRSF10B",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "10101800;11313989;11756185"
+    },
+    {
+      "source": "TP53",
+      "target": "TNFRSF10B",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "10810622;19351839"
+    },
+    {
+      "source": "TP53",
+      "target": "TP53",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "22532570"
+    },
+    {
+      "source": "TP53",
+      "target": "TP53",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11032029;16990849"
+    },
+    {
+      "source": "TP53",
+      "target": "TP53I3",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "10101800;14695213"
+    },
+    {
+      "source": "TP53",
+      "target": "TP53I3",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "12851404"
+    },
+    {
+      "source": "TP53",
+      "target": "TP73",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "11238924;16990849"
+    },
+    {
+      "source": "TP53",
+      "target": "VEGFA",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "16684540"
+    },
+    {
+      "source": "TP53",
+      "target": "VEGFA",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "11559575"
+    },
+    {
+      "source": "TP53",
+      "target": "WRN",
+      "type": "regulation",
+      "effect": "Repression",
+      "pmid": "11427532"
+    },
+    {
+      "source": "TP53",
+      "target": "XPC",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "12771027;12967652;15927209;16357511;22336944"
+    },
+    {
+      "source": "TP53BP1",
+      "target": "BRCA1",
+      "type": "regulation",
+      "effect": "Activation",
+      "pmid": "15970701"
+    },
+    {
+      "source": "TP53BP1",
+      "target": "BRCA1",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "21914189"
+    },
+    {
+      "source": "XRCC5",
+      "target": "ERBB2",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "22899247"
+    },
+    {
+      "source": "XRCC6",
+      "target": "ERBB2",
+      "type": "regulation",
+      "effect": "Unknown",
+      "pmid": "22899247"
+    }
+  ],
+  "meta": {
+    "pathways": [
+      "DNA repair",
+      "p53 signaling",
+      "PI3K-AKT signaling",
+      "TGF-beta signaling"
+    ]
+  }
+}
