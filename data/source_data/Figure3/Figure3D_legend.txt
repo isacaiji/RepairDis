@@ -1,0 +1,6 @@
+Figure 3D. Immune-exclusion programs across MO-DDRscore-defined tumor states.
+Representative cancer types were selected according to the number and magnitude of FDR-significant differences between MO-DDRscore-high and -low tumors.
+Tile colors indicate feature-wise standardized median-score differences between high- and low-score tumors (High - Low).
+Asterisks denote FDR-adjusted significance: * FDR < 0.05, ** FDR < 0.01, *** FDR < 0.001, **** FDR < 0.0001.
+
+Figure S3D. Full pan-cancer immune-exclusion program landscape across all available cancer types.

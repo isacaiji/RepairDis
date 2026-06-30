@@ -1,0 +1,57 @@
+{
+  "BLCA": [
+    "ATM",
+    "TP53"
+  ],
+  "BRCA": [
+    "ATM",
+    "TP53"
+  ],
+  "CHOL": [
+    "TP53"
+  ],
+  "COAD": [
+    "TP53"
+  ],
+  "ESCA": [],
+  "HNSC": [
+    "TP53"
+  ],
+  "KICH": [
+    "ATM"
+  ],
+  "KIRC": [
+    "ATM",
+    "TP53"
+  ],
+  "KIRP": [],
+  "LIHC": [
+    "ATM",
+    "TP53"
+  ],
+  "LUAD": [
+    "ATM",
+    "ATRX",
+    "DCLRE1C",
+    "NEIL1",
+    "TP53"
+  ],
+  "LUSC": [
+    "ATM"
+  ],
+  "PRAD": [
+    "ATM",
+    "TP53"
+  ],
+  "READ": [
+    "ATM"
+  ],
+  "STAD": [
+    "ATM"
+  ],
+  "THCA": [],
+  "UCEC": [
+    "ATM",
+    "TP53"
+  ]
+}

@@ -1,0 +1,9 @@
+Item,Value
+Data_source,D:/R_workspace/summary/Repairium_pancancer_analysis_plan/03-res/Figure2_pan_cancer/C_Cancer_hallmark
+N_cancers,33
+N_hallmarks_all,50
+N_hallmarks_plotted,9
+N_tiles_plotted,297
+NES_min_plotted,1.1306
+NES_max_plotted,2.7252
+N_FDR_lt_0.05_plotted,296

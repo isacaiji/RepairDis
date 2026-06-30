@@ -1,0 +1,17 @@
+Canonical,Feature,Display,Method,Source,Feature_Label,Feature_Main_Label,N_FDR_sig_cancers,Median_abs_standardized_effect,Mean_abs_standardized_effect,Representative_for_canonical,Selected_for_main
+NEUTROPHILS,Neutrophils_MCPcounter,Neutrophils,MCP-counter,IOBR::deconvo_tme(method='mcpcounter'),"Neutrophils
+(MCP-counter)",Neutrophils,26,0.430056075000469,0.577716367565257,TRUE,TRUE
+NKCELLS,NK_cells_quantiseq,NK Cells,quanTIseq,IOBR::deconvo_tme(method='quantiseq'),"NK Cells
+(quanTIseq)",NK Cells,20,0.228435581079708,0.270826218119441,TRUE,TRUE
+BASOPHILS,Basophils_xCell,Basophils,xCell,IOBR::deconvo_tme(method='xcell'),"Basophils
+(xCell)",Basophils,18,0.770950567705175,1.09256075733257,TRUE,TRUE
+PLASMACELLS,Plasma_cells_xCell,Plasma Cells,xCell,IOBR::deconvo_tme(method='xcell'),"Plasma Cells
+(xCell)",Plasma Cells,17,0.992393287098344,1.0910502772787,TRUE,TRUE
+ENDOTHELIALCELLS,Endothelial_cells_MCPcounter,Endothelial Cells,MCP-counter,IOBR::deconvo_tme(method='mcpcounter'),"Endothelial Cells
+(MCP-counter)",Endothelial Cells,17,0.20020690832769,0.293963139099628,TRUE,TRUE
+CD4TEM,CD4+_Tem_xCell,CD4+ Tem,xCell,IOBR::deconvo_tme(method='xcell'),"CD4+ Tem
+(xCell)",CD4+ Tem,15,0.811814733302377,0.977257814542053,TRUE,TRUE
+CD4TCELLS,CD4_Tcells_EPIC,CD4 T cells,EPIC,IOBR::deconvo_tme(method='epic'),"CD4 T cells
+(EPIC)",CD4 T cells,15,0.274341342294552,0.374055252154613,TRUE,TRUE
+DENDRITICCELLS,Dendritic_cells_quantiseq,Dendritic Cells,quanTIseq,IOBR::deconvo_tme(method='quantiseq'),"Dendritic Cells
+(quanTIseq)",Dendritic Cells,15,0.101275921222628,0.250840744600645,TRUE,TRUE

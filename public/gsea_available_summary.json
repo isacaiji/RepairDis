@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-06-26T09:59:02.752Z",
+  "source": "http://121.37.88.191:83/dzx/down/gsea/{gene}/{cancer}",
+  "geneSource": "http://121.37.88.191:9016/api/genes/all",
+  "cancers": [
+    "BLCA",
+    "BRCA",
+    "CHOL",
+    "COAD",
+    "ESCA",
+    "HNSC",
+    "KICH",
+    "KIRC",
+    "KIRP",
+    "LIHC",
+    "LUAD",
+    "LUSC",
+    "PRAD",
+    "READ",
+    "STAD",
+    "THCA",
+    "UCEC"
+  ],
+  "totalGenesTested": 236,
+  "totalPairsTested": 4012,
+  "availablePairCount": 24,
+  "available": {
+    "BLCA": [
+      "ATM",
+      "TP53"
+    ],
+    "BRCA": [
+      "ATM",
+      "TP53"
+    ],
+    "CHOL": [
+      "TP53"
+    ],
+    "COAD": [
+      "TP53"
+    ],
+    "ESCA": [],
+    "HNSC": [
+      "TP53"
+    ],
+    "KICH": [
+      "ATM"
+    ],
+    "KIRC": [
+      "ATM",
+      "TP53"
+    ],
+    "KIRP": [],
+    "LIHC": [
+      "ATM",
+      "TP53"
+    ],
+    "LUAD": [
+      "ATM",
+      "ATRX",
+      "DCLRE1C",
+      "NEIL1",
+      "TP53"
+    ],
+    "LUSC": [
+      "ATM"
+    ],
+    "PRAD": [
+      "ATM",
+      "TP53"
+    ],
+    "READ": [
+      "ATM"
+    ],
+    "STAD": [
+      "ATM"
+    ],
+    "THCA": [],
+    "UCEC": [
+      "ATM",
+      "TP53"
+    ]
+  }
+}

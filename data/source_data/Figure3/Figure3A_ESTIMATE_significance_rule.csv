@@ -1,0 +1,2 @@
+Panel,Significance_rule,Main_filter
+Figure3A,"Asterisks were recalculated from FDR: * <0.05, ** <0.01, *** <0.001, **** <0.0001.",Cancer types with no FDR-significant ESTIMATE feature were omitted from the main heatmap.

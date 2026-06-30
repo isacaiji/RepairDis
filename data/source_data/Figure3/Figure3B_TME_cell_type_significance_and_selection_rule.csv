@@ -1,0 +1,7 @@
+Item,Value
+Input_file,D:/R_workspace/summary/Repairium_pancancer_analysis_plan/03-res/Figure2_pan_cancer/G_TME_cell_types/PanCancer_TME_cell_types_group_comparison_all.csv
+Main_feature_selection,One representative output per canonical cell type; ranked by FDR-significant cancer count and median absolute standardized effect; top 8 shown.
+Main_cancer_pool,Cancer types retained in Figure 3A ESTIMATE heatmap when available; otherwise all cancer types.
+Main_cancer_selection,Top 8 cancer types ranked by FDR-significant selected features and total absolute standardized effect.
+Significance_label,"Asterisks are generated from FDR: * < 0.05, ** < 0.01, *** < 0.001, **** < 0.0001."
+Displayed_value,Feature-wise standardized group median score for Low and High MO-DDRscore groups.

@@ -1,0 +1,5 @@
+Figure 3F. TIDE-predicted immunotherapy response.
+Predicted responder proportions were compared between MO-DDRscore-low and -high tumors within each cancer type.
+Dots indicate the predicted responder proportion in each group, and grey lines connect the paired low and high groups from the same cancer type.
+Cancer types are ordered by the predicted responder proportion in the MO-DDRscore-high group.
+Asterisks indicate FDR-adjusted significance from Fisher's exact test.

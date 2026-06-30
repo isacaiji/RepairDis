@@ -1,0 +1,9 @@
+Item,Value
+Data_source,D:/R_workspace/summary/Repairium_pancancer_analysis_plan/03-res/Figure2_pan_cancer/D_Aging_hallmark
+N_cancers_all,33
+N_cancers_main,33
+Excluded_from_main,None
+N_aging_hallmarks,12
+N_tiles_main,396
+N_main_FDR_lt_0.05,213
+Significance_rule,"FDR based: * < 0.05, ** < 0.01, *** < 0.001"

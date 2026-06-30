@@ -6,21 +6,22 @@ microenvironment analysis, drug association browsing, interaction networks,
 synthetic-lethality information and evolutionary analysis.
 
 This repository contains the RepairDis front-end code, selected R analysis
-scripts used for the manuscript figures and small curated summary tables.
-Large public datasets and generated intermediate matrices are not included in
-the repository.
+scripts used for the manuscript figures, small curated summary tables and
+compact source-data files for the final figures. Large public datasets and
+generated intermediate matrices are not included in the repository.
 
 ## Repository Structure
 
 ```text
 .
-├── src/                         # Vue 3 front-end source code
-├── public/                      # Static assets and precomputed display files
-├── Rcode/
-│   ├── manuscript_figures/       # R scripts for manuscript figure generation
-│   └── dprs_luad/                # R scripts for LUAD DPRS modeling/benchmarking
-└── data/
-    └── tables/                  # Small curated supplementary tables
+|-- src/                         # Vue 3 front-end source code
+|-- public/                      # Static assets and precomputed display files
+|-- Rcode/
+|   |-- manuscript_figures/       # R scripts for manuscript figure generation
+|   `-- dprs_luad/                # R scripts for LUAD DPRS modeling/benchmarking
+`-- data/
+    |-- tables/                   # Curated supplementary tables
+    `-- source_data/              # Compact source data for main/supplementary figures
 ```
 
 ## Front-End
@@ -51,7 +52,8 @@ are available locally. Paths may need to be adjusted before rerunning.
 
 ## Data Availability
 
-Small curated summary tables are included in `data/tables`. Large-scale
+Small curated summary tables are included in `data/tables`, and compact source
+data for the final figures are included in `data/source_data`. Large-scale
 transcriptomic, mutation, copy-number, clinical and drug-response datasets
 should be obtained from their original public resources, including TCGA/GDC,
 UCSC Xena, GEO and GDSC.

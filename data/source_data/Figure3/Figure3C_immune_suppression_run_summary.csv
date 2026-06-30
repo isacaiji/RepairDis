@@ -1,0 +1,10 @@
+Item,Value
+Input_file,D:/R_workspace/summary/Repairium_pancancer_analysis_plan/03-res/Figure2_pan_cancer/H_Immune_suppression/PanCancer_Immune_suppression_group_comparison_all.csv
+N_cancers,33
+N_main_features,4
+N_main_tests,132
+N_main_FDR_lt_0.05,85
+N_main_higher_in_high,50
+N_main_higher_in_low,33
+Main_figure,D:/R_workspace/summary/Repairium_pancancer_analysis_plan/03-res/plots/张岩-图/Figure3/Figure3C_immune_suppression.pdf
+Supplementary_figure,D:/R_workspace/summary/Repairium_pancancer_analysis_plan/03-res/plots/张岩-图/sup/Figure3/FigureS3C_immune_suppression_full.pdf

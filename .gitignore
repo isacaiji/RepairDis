@@ -1,0 +1,56 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+coverage
+*.local
+target
+.mvn
+mvnw
+mvnw.cmd
+pom.xml
+
+/cypress/videos/
+/cypress/screenshots/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+*.tsbuildinfo
+
+# R session and generated analysis artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+*.rds
+*.RDS
+*.RData
+
+# Local large data and generated outputs
+data/raw/
+data/processed/
+outputs/
+results/
+figures/generated/
+
+# Local backups and transient logs
+_codex_backup*/
+*.err.log
+*.out.log

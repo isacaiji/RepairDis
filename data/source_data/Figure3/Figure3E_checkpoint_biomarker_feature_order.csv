@@ -1,0 +1,24 @@
+Feature_Display,Feature_Group,Group_Order,Mean_scaled_effect,N_high,N_low,N_sig
+IFNG,Immune effector,1,-3.57326752362192e-17,10,3,13
+CTL,Immune effector,1,-0.0754842111450288,8,4,12
+CD8,Immune effector,1,-0.0925830497356368,8,1,9
+ICOSLG,Co-stimulatory,2,0.018312519763894,9,2,11
+CD40,Co-stimulatory,2,0.0163077358269482,10,3,13
+CD80,Co-stimulatory,2,0.00306423483841097,16,1,17
+CD86,Co-stimulatory,2,0.00124194193411587,10,3,13
+TNFRSF4,Co-stimulatory,2,-2.69407812557004e-17,3,5,8
+CD28,Co-stimulatory,2,-0.00483391607443746,12,3,15
+CD40LG,Co-stimulatory,2,-0.0124653997198985,4,6,10
+ICOS,Co-stimulatory,2,-0.0161656668418953,13,2,15
+CD276,Checkpoint / inhibitory,3,0.0171740310322566,24,0,24
+LAG3,Checkpoint / inhibitory,3,0.0154009137889656,5,3,8
+PDCD1LG2,Checkpoint / inhibitory,3,0.0146201333171734,16,0,16
+TIGIT,Checkpoint / inhibitory,3,0.00935064274270763,8,3,11
+HAVCR2,Checkpoint / inhibitory,3,0.00271812774685148,9,4,13
+CTLA4,Checkpoint / inhibitory,3,3.21894080795292e-17,9,2,11
+CD47,Checkpoint / inhibitory,3,-1.1433404728029e-17,25,1,26
+IDO1,Checkpoint / inhibitory,3,-2.22655700694978e-17,7,2,9
+CD274,Checkpoint / inhibitory,3,-6.57568617612458e-17,16,0,16
+PDCD1,Checkpoint / inhibitory,3,-0.0106582109872271,6,3,9
+BTLA,Checkpoint / inhibitory,3,-0.0727595535319686,9,1,10
+MSI score,Response biomarker,4,-0.0556423138330162,6,0,6

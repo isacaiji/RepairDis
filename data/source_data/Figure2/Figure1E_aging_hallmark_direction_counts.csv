@@ -1,0 +1,13 @@
+Feature,Low_cancers,High_cancers
+Genomic instability,0,31
+Telomere attrition,0,26
+Epigenetic alterations,0,21
+Loss of proteostasis,10,2
+Disabled macroautophagy,3,10
+Deregulated nutrient sensing,5,8
+Mitochondrial dysfunction,27,0
+Cellular senescence,0,24
+Stem cell exhaustion,1,10
+Altered intercellular communication,10,2
+Chronic inflammation,12,0
+Extracellular matrix changes,8,3

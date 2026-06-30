@@ -1,0 +1,105 @@
+Canonical,Feature,Display,Method,Source,Feature_Label,Feature_Main_Label,N_FDR_sig_cancers,Median_abs_standardized_effect,Mean_abs_standardized_effect,Representative_for_canonical,Selected_for_main
+NEUTROPHILS,Neutrophils_MCPcounter,Neutrophils,MCP-counter,IOBR::deconvo_tme(method='mcpcounter'),"Neutrophils
+(MCP-counter)",Neutrophils,26,0.430056075000469,0.577716367565257,TRUE,TRUE
+NKCELLS,NK_cells_quantiseq,NK Cells,quanTIseq,IOBR::deconvo_tme(method='quantiseq'),"NK Cells
+(quanTIseq)",NK Cells,20,0.228435581079708,0.270826218119441,TRUE,TRUE
+BASOPHILS,Basophils_xCell,Basophils,xCell,IOBR::deconvo_tme(method='xcell'),"Basophils
+(xCell)",Basophils,18,0.770950567705175,1.09256075733257,TRUE,TRUE
+PLASMACELLS,Plasma_cells_xCell,Plasma Cells,xCell,IOBR::deconvo_tme(method='xcell'),"Plasma Cells
+(xCell)",Plasma Cells,17,0.992393287098344,1.0910502772787,TRUE,TRUE
+ENDOTHELIALCELLS,Endothelial_cells_MCPcounter,Endothelial Cells,MCP-counter,IOBR::deconvo_tme(method='mcpcounter'),"Endothelial Cells
+(MCP-counter)",Endothelial Cells,17,0.20020690832769,0.293963139099628,TRUE,TRUE
+CD4TEM,CD4+_Tem_xCell,CD4+ Tem,xCell,IOBR::deconvo_tme(method='xcell'),"CD4+ Tem
+(xCell)",CD4+ Tem,15,0.811814733302377,0.977257814542053,TRUE,TRUE
+CD4TCELLS,CD4_Tcells_EPIC,CD4 T cells,EPIC,IOBR::deconvo_tme(method='epic'),"CD4 T cells
+(EPIC)",CD4 T cells,15,0.274341342294552,0.374055252154613,TRUE,TRUE
+DENDRITICCELLS,Dendritic_cells_quantiseq,Dendritic Cells,quanTIseq,IOBR::deconvo_tme(method='quantiseq'),"Dendritic Cells
+(quanTIseq)",Dendritic Cells,15,0.101275921222628,0.250840744600645,TRUE,TRUE
+BCELLS,B_cells_quantiseq,B cells,quanTIseq,IOBR::deconvo_tme(method='quantiseq'),"B cells
+(quanTIseq)",B cells,15,0.024234675051523,0.0579992389048702,TRUE,FALSE
+MACROPHAGESM2,Macrophages_M2_quantiseq,Macrophages M2,quanTIseq,IOBR::deconvo_tme(method='quantiseq'),"Macrophages M2
+(quanTIseq)",Macrophages M2,14,0.25191351145082,0.380743295670102,TRUE,FALSE
+CD8TCELLS,CD8_Tcells_EPIC,CD8 T cells,EPIC,IOBR::deconvo_tme(method='epic'),"CD8 T cells
+(EPIC)",CD8 T cells,14,0.048297162705488,0.219442660643434,TRUE,FALSE
+MYELOIDDENDRITICCELLS,Myeloid_dendritic_cells_MCPcounter,Myeloid Dendritic Cells,MCP-counter,IOBR::deconvo_tme(method='mcpcounter'),"Myeloid Dendritic Cells
+(MCP-counter)",Myeloid Dendritic Cells,13,0.00764722125378475,0.20140313288922,TRUE,FALSE
+MACROPHAGES,Macrophages_EPIC,Macrophages,EPIC,IOBR::deconvo_tme(method='epic'),"Macrophages
+(EPIC)",Macrophages,12,0.135596949339171,0.342259314987412,TRUE,FALSE
+NKT,NKT_xCell,NKt,xCell,IOBR::deconvo_tme(method='xcell'),"NKt
+(xCell)",NKt,12,7.43849426498855e-15,0.661358720276823,TRUE,FALSE
+TCELLS,T_cells_MCPcounter,T cells,MCP-counter,IOBR::deconvo_tme(method='mcpcounter'),"T cells
+(MCP-counter)",T cells,11,0.0236407248077827,0.207140353889676,TRUE,FALSE
+MACROPHAGESM1,Macrophages_M1_quantiseq,Macrophages M1,quanTIseq,IOBR::deconvo_tme(method='quantiseq'),"Macrophages M1
+(quanTIseq)",Macrophages M1,10,0.172541280990057,0.346800866560232,TRUE,FALSE
+FIBROBLASTS,Fibroblasts_MCPcounter,Fibroblasts,MCP-counter,IOBR::deconvo_tme(method='mcpcounter'),"Fibroblasts
+(MCP-counter)",Fibroblasts,10,0.0762196345922464,0.187726899547119,TRUE,FALSE
+ENDOTHELIAL,Endothelial_EPIC,Endothelial,EPIC,IOBR::deconvo_tme(method='epic'),"Endothelial
+(EPIC)",Endothelial,9,0.13307580141551,0.184137785276649,TRUE,FALSE
+CYTOTOXICLYMPHOCYTES,Cytotoxic_lymphocytes_MCPcounter,Cytotoxic Lymphocytes,MCP-counter,IOBR::deconvo_tme(method='mcpcounter'),"Cytotoxic Lymphocytes
+(MCP-counter)",Cytotoxic Lymphocytes,8,0.0497626374264246,0.242566409522981,TRUE,FALSE
+TCELLSCD8,T_cells_CD8_quantiseq,t Cells CD8,quanTIseq,IOBR::deconvo_tme(method='quantiseq'),"t Cells CD8
+(quanTIseq)",t Cells CD8,6,0.00582406170638733,0.202280771062805,TRUE,FALSE
+TCELLSCD4,T_cells_CD4_quantiseq,t Cells CD4,quanTIseq,IOBR::deconvo_tme(method='quantiseq'),"t Cells CD4
+(quanTIseq)",t Cells CD4,6,0,0.261305341937414,TRUE,FALSE
+CAFS,CAFs_EPIC,CAFs,EPIC,IOBR::deconvo_tme(method='epic'),"CAFs
+(EPIC)",CAFs,5,0.0292108253423343,0.24405175022503,TRUE,FALSE
+MONOCYTES,Monocytes_quantiseq,Monocytes,quanTIseq,IOBR::deconvo_tme(method='quantiseq'),"Monocytes
+(quanTIseq)",Monocytes,5,0,0.244163053420589,TRUE,FALSE
+CD4TCM,CD4+_Tcm_xCell,CD4+ Tcm,xCell,IOBR::deconvo_tme(method='xcell'),"CD4+ Tcm
+(xCell)",CD4+ Tcm,4,0.46890289042158,0.513195735241821,TRUE,FALSE
+MASTCELLS,Mast_cells_xCell,Mast Cells,xCell,IOBR::deconvo_tme(method='xcell'),"Mast Cells
+(xCell)",Mast Cells,4,0.37289803762432,0.565359311479579,TRUE,FALSE
+CD8TEM,CD8+_Tem_xCell,CD8+ Tem,xCell,IOBR::deconvo_tme(method='xcell'),"CD8+ Tem
+(xCell)",CD8+ Tem,3,0.392137306653361,0.699468166744684,TRUE,FALSE
+CD8NAIVETCELLS,CD8+_naive_T-cells_xCell,CD8+ Naive t-Cells,xCell,IOBR::deconvo_tme(method='xcell'),"CD8+ Naive t-Cells
+(xCell)",CD8+ Naive t-Cells,2,0.264421956760079,0.585353887881984,TRUE,FALSE
+CDC,cDC_xCell,Cdc,xCell,IOBR::deconvo_tme(method='xcell'),"Cdc
+(xCell)",Cdc,2,0.247392328227388,0.698377457338825,TRUE,FALSE
+MVENDOTHELIALCELLS,mv_Endothelial_cells_xCell,Mv Endothelial Cells,xCell,IOBR::deconvo_tme(method='xcell'),"Mv Endothelial Cells
+(xCell)",Mv Endothelial Cells,1,0.638520848911562,0.907369137896443,TRUE,FALSE
+EOSINOPHILS,Eosinophils_xCell,Eosinophils,xCell,IOBR::deconvo_tme(method='xcell'),"Eosinophils
+(xCell)",Eosinophils,1,0.582120160794634,0.951200458816599,TRUE,FALSE
+ADC,aDC_xCell,Adc,xCell,IOBR::deconvo_tme(method='xcell'),"Adc
+(xCell)",Adc,1,0,0.667852911331816,TRUE,FALSE
+CD4MEMORYTCELLS,CD4+_memory_T-cells_xCell,CD4+ Memory t-Cells,xCell,IOBR::deconvo_tme(method='xcell'),"CD4+ Memory t-Cells
+(xCell)",CD4+ Memory t-Cells,0,0.606041021581804,1.04126030729214,TRUE,FALSE
+LYENDOTHELIALCELLS,ly_Endothelial_cells_xCell,Ly Endothelial Cells,xCell,IOBR::deconvo_tme(method='xcell'),"Ly Endothelial Cells
+(xCell)",Ly Endothelial Cells,0,0.451956434520981,0.911193530674158,TRUE,FALSE
+DC,DC_xCell,Dc,xCell,IOBR::deconvo_tme(method='xcell'),"Dc
+(xCell)",Dc,0,0.36124988707509,0.60208619946845,TRUE,FALSE
+CD8TCM,CD8+_Tcm_xCell,CD8+ Tcm,xCell,IOBR::deconvo_tme(method='xcell'),"CD8+ Tcm
+(xCell)",CD8+ Tcm,0,0.231768268022202,0.606297629489991,TRUE,FALSE
+PDC,pDC_xCell,Pdc,xCell,IOBR::deconvo_tme(method='xcell'),"Pdc
+(xCell)",Pdc,0,0.109530476077061,0.646165748329177,TRUE,FALSE
+IDC,iDC_xCell,Idc,xCell,IOBR::deconvo_tme(method='xcell'),"Idc
+(xCell)",Idc,0,0.0810326773571992,0.511749277232447,TRUE,FALSE
+CD4NAIVETCELLS,CD4+_naive_T-cells_xCell,CD4+ Naive t-Cells,xCell,IOBR::deconvo_tme(method='xcell'),"CD4+ Naive t-Cells
+(xCell)",CD4+ Naive t-Cells,0,0.0805367954509114,0.699939400938079,TRUE,FALSE
+NKCELLS,NK_cells_MCPcounter,NK Cells,MCP-counter,IOBR::deconvo_tme(method='mcpcounter'),"NK Cells
+(MCP-counter)",NK Cells,14,0.195222432539023,0.292733035168406,FALSE,FALSE
+NKCELLS,NKcells_EPIC,NKcells,EPIC,IOBR::deconvo_tme(method='epic'),"NKcells
+(EPIC)",NKcells,14,0.00112122250879659,0.356687996387911,FALSE,FALSE
+NEUTROPHILS,Neutrophils_quantiseq,Neutrophils,quanTIseq,IOBR::deconvo_tme(method='quantiseq'),"Neutrophils
+(quanTIseq)",Neutrophils,12,0.10538034044226,0.267065568836027,FALSE,FALSE
+CD8TCELLS,CD8_T_cells_MCPcounter,CD8 t Cells,MCP-counter,IOBR::deconvo_tme(method='mcpcounter'),"CD8 t Cells
+(MCP-counter)",CD8 t Cells,8,0.00306143994824484,0.161847405144711,FALSE,FALSE
+FIBROBLASTS,Fibroblasts_xCell,Fibroblasts,xCell,IOBR::deconvo_tme(method='xcell'),"Fibroblasts
+(xCell)",Fibroblasts,2,0.851497356902307,1.01214306610049,FALSE,FALSE
+CD4TCELLS,CD4+_T-cells_xCell,CD4+ t-Cells,xCell,IOBR::deconvo_tme(method='xcell'),"CD4+ t-Cells
+(xCell)",CD4+ t-Cells,2,0.410318495180567,0.71769789150618,FALSE,FALSE
+MACROPHAGES,Macrophages_xCell,Macrophages,xCell,IOBR::deconvo_tme(method='xcell'),"Macrophages
+(xCell)",Macrophages,2,0.0651942682708049,0.624076983404582,FALSE,FALSE
+ENDOTHELIALCELLS,Endothelial_cells_xCell,Endothelial Cells,xCell,IOBR::deconvo_tme(method='xcell'),"Endothelial Cells
+(xCell)",Endothelial Cells,1,0.0641867494817562,0.660210859034515,FALSE,FALSE
+NEUTROPHILS,Neutrophils_xCell,Neutrophils,xCell,IOBR::deconvo_tme(method='xcell'),"Neutrophils
+(xCell)",Neutrophils,0,0.48973397521176,0.846316157887282,FALSE,FALSE
+CD8TCELLS,CD8+_T-cells_xCell,CD8+ t-Cells,xCell,IOBR::deconvo_tme(method='xcell'),"CD8+ t-Cells
+(xCell)",CD8+ t-Cells,0,0.418001142556478,0.701467663650282,FALSE,FALSE
+MONOCYTES,Monocytes_xCell,Monocytes,xCell,IOBR::deconvo_tme(method='xcell'),"Monocytes
+(xCell)",Monocytes,0,0.278306276374827,0.74111662027936,FALSE,FALSE
+NKCELLS,NK_cells_xCell,NK Cells,xCell,IOBR::deconvo_tme(method='xcell'),"NK Cells
+(xCell)",NK Cells,0,0.258478589573299,0.832431354115397,FALSE,FALSE
+MACROPHAGESM2,Macrophages_M2_xCell,Macrophages M2,xCell,IOBR::deconvo_tme(method='xcell'),"Macrophages M2
+(xCell)",Macrophages M2,0,0.204697108873447,0.778012407388728,FALSE,FALSE
+MACROPHAGESM1,Macrophages_M1_xCell,Macrophages M1,xCell,IOBR::deconvo_tme(method='xcell'),"Macrophages M1
+(xCell)",Macrophages M1,0,0,0.655097483976228,FALSE,FALSE
