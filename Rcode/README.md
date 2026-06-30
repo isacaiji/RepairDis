@@ -16,6 +16,18 @@ Scripts copied from the LUAD DPRS analysis workspace. They include data
 processing, MO-DDRscore-associated analysis, machine-learning survival model
 construction, DPRS validation and published-signature benchmarking scripts.
 
+## `drug_sensitivity`
+
+Scripts for oncoPredict-based drug sensitivity estimation and publication-style
+drug sensitivity plots. These scripts generate predicted IC50 tables and
+summary plots used for therapy-oriented analyses.
+
+## `immune_followup`
+
+Scripts for immune follow-up analyses, including IOBR-derived immune features,
+TIDE workflow support, checkpoint panels, immune program summaries and related
+publication-style plots.
+
 ## Notes
 
 These scripts retain local project assumptions and may require path updates

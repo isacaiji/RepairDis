@@ -18,7 +18,9 @@ generated intermediate matrices are not included in the repository.
 |-- public/                      # Static assets and precomputed display files
 |-- Rcode/
 |   |-- manuscript_figures/       # R scripts for manuscript figure generation
-|   `-- dprs_luad/                # R scripts for LUAD DPRS modeling/benchmarking
+|   |-- dprs_luad/                # R scripts for LUAD DPRS modeling/benchmarking
+|   |-- drug_sensitivity/         # R scripts for predicted drug sensitivity analyses
+|   `-- immune_followup/          # R scripts for immune follow-up analyses
 `-- data/
     |-- tables/                   # Curated supplementary tables
     `-- source_data/              # Compact source data for main/supplementary figures
@@ -46,6 +48,10 @@ R scripts are provided as analysis code associated with the manuscript:
   immunotherapy-response and gene-drug-pathway figure scripts.
 - `Rcode/dprs_luad`: LUAD DPRS construction, validation, model comparison and
   related analysis scripts.
+- `Rcode/drug_sensitivity`: oncoPredict-based predicted drug sensitivity data
+  generation and plotting scripts.
+- `Rcode/immune_followup`: immune follow-up, IOBR, TIDE, checkpoint and
+  publication-style immune plotting scripts.
 
 The scripts assume that TCGA, GEO, GDSC and processed RepairDis analysis files
 are available locally. Paths may need to be adjusted before rerunning.
